@@ -1,0 +1,14 @@
+{
+    "name": "blackbox/placeholder",
+    "type": "project",
+    "description": "Just a placeholder project",
+    "keywords": ["Cyberbox","Blackbox","placeholder"],
+    "homepage": "https://github.com/cyberbox-labs/blackbox",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Don",
+            "email": "don@cyberbox.org"
+        }
+    ]
+}
